@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:vega-webrtc/vega_server_ruby.git
+  remote: git://github.com/vega-webrtc/vega_server_ruby.git
   revision: ed7c7f126beafed47ce11347eb2a64f384fc2a5d
   specs:
     vega_server (0.1.0)
